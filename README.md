@@ -7,7 +7,7 @@ This project documents my completion of the AWS Educate **Introduction to IAM Si
 The lab focused on Identity & Access Management, role-based permissions, and secure access
 controls for EC2 and S3 environments.
 
-## 🧩 Objectives Completed
+## Objectives Completed
 
 - Created a **custom IAM policy** for limited EC2 admin access  
 - Created IAM **user groups** (EC2-Admin, EC2-Support, S3-Support)
@@ -18,7 +18,7 @@ controls for EC2 and S3 environments.
 - Tested S3 read-only restrictions and blocked upload actions
 - Demonstrated **least-privilege security design**
 
-## 📸 Screenshots (Evidence)
+## Screenshots (Evidence)
 
 Screenshots for each task are available in `/screenshots`.
 
@@ -34,12 +34,12 @@ Screenshots for each task are available in `/screenshots`.
 | Task 8 | Test EC2 Admin user |
 | Final | Simulation completion & score |
 
-## 🎖 Certification
+## Certification
 
 AWS Educate — Introduction to IAM  
 Credly badge: https://www.credly.com/badges/bb59950f-5c73-4f92-8257-9768ae1c08a6/public_url
 
-## 🛠 Technologies
+## Technologies
 
 - AWS IAM
 - EC2
@@ -47,6 +47,6 @@ Credly badge: https://www.credly.com/badges/bb59950f-5c73-4f92-8257-9768ae1c08a6
 - Identity-based policies
 - Role-based access control (RBAC)
 
-## 📚 Reference
+## Reference
 
 Hands-on simulation instructions provided by AWS Educate.
